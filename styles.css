@@ -1,0 +1,52 @@
+body {
+    width: 500px;
+    margin: auto;
+    text-align: center;
+    margin-top: 85px;
+    margin-bottom: 90px;
+    background: linear-gradient(150deg, orange, red);
+    
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container {
+    padding: 25px;
+    margin-bottom: 20px;
+    background-color: whitesmoke;
+    border: 3px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;   
+    
+}
+  
+label {
+    font-weight: bold;
+    font-size: 30px;
+    padding: 20px;
+    
+}
+  
+button {
+    margin-left: 10px;
+    padding: 30px;
+}
+
+.btn {
+    background-color: rgb(221, 160, 47);
+    border-color: rgb(221, 160, 47);
+}
+
+.btn:hover {
+    background-color: red;
+    border: black;
+}
+
+#binary-output {
+    font-size: 30px ;
+}
+
+#decimal-output {
+    font-size: 30px ;
+}
